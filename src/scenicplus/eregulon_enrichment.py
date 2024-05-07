@@ -5,7 +5,7 @@
 from pycisTopic.diff_features import *
 from pycisTopic.signature_enrichment import *
 from pyscenic.binarization import binarize
-
+from typing import Optional
 from .scenicplus_class import SCENICPLUS
 
 
