@@ -31,7 +31,7 @@ cython
 plotnine
 mudata
 git+https://github.com/aertslab/pycisTopic@main#egg=pycisTopic
-git+https://github.com/aertslab/pycistarget@v1.0.0#egg=pycistarget
+git+https://github.com/aertslab/pycistarget@old#egg=pycistarget
 git+https://github.com/aertslab/pySCENIC@master#egg=pyscenic
 git+https://github.com/aertslab/LoomXpy@main#egg=loomxpy
 sphinx_rtd_theme
