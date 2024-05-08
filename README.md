@@ -1,6 +1,7 @@
 ![alt text](docs/images/SCENIC+_Logo_v5.png "SCENIC+")
 [![Documentation Status](https://readthedocs.org/projects/scenicplus/badge/?version=latest)](https://scenicplus.readthedocs.io/en/latest/?badge=latest)
 [![DOI](https://zenodo.org/badge/391121521.svg)](https://zenodo.org/badge/latestdoi/391121521)
+# Old version SCENIC+ suitabe for non model organism
 
 # SCENIC+ single-cell eGRN inference
 
@@ -20,9 +21,7 @@ Extensive documentation and tutorials are available at [read the docs](https://s
 To install SCENIC+ (in a Linux environment):
 
 ```bash
-git clone https://github.com/aertslab/scenicplus
-cd scenicplus
-pip install -e .
+pip install -e git+https://github.com/lizihe21/scenicplus@old
 ```
 
 
